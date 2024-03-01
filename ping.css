@@ -1,0 +1,29 @@
+@media screen and (max-width: 1280px) {
+   .menu{
+    top: -8vh;
+   }
+   .content{
+    background-size: 100%;
+}
+ }
+  @media screen and (max-width: 980px) {
+    .menu{
+        top: -15vh;
+       }
+ }
+  @media screen and (max-width: 765px) {
+    .menu{
+        top: -20vh;
+       }
+       .content{
+           background-size: 50%;
+       }
+ }
+ @media screen and (max-width: 375px) {
+    .menu{
+        top: -18vh;
+       }
+       .content{
+        background-size: 10% 10%;
+    }
+ }
